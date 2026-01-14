@@ -2,7 +2,7 @@
 title: 'Serwis gwarancyjny i fabrycznie autoryzowany – co warto wiedzieć?'
 description: 'Kompleksowy przewodnik po serwisie gwarancyjnym i autoryzowanych warsztatach samochodowych'
 pubDate: 'Jan 14 2025'
-heroImage: '/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-4.jpg'
 ---
 
 Wiele osób zastanawia się, czy serwis gwarancyjny to jedyna opcja dla nowego samochodu i czy warto korzystać z autoryzowanych warsztatów. W tym artykule wyjaśniamy najważniejsze kwestie związane z obsługą gwarancyjną pojazdów.
